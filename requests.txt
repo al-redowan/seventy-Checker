@@ -1,0 +1,9 @@
+requests
+urllib3
+colorama 
+logging 
+argparse 
+re 
+datetime 
+termcolor
+
