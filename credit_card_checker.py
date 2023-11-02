@@ -67,4 +67,4 @@ def main():
                         if "ccNumber" in data:
                             output = data["ccNumber"]
                             if "cvc" in data:
-                               
+                               output = data["ccNumber"]
