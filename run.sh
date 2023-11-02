@@ -12,5 +12,5 @@ python credit_card_checker.py input.txt output.txt
 # Deactivate virtual environment
 deactivate
 
-t card checker script
+# t card checker script
 python credit_card_checker.py "$input_file" "$output_file"
